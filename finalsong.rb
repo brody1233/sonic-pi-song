@@ -1,3 +1,4 @@
+use_bpm 120
 define :restmeasure do
   play :r
   sleep 1
